@@ -1,3 +1,4 @@
+# Why use Substance Designer for VFX Textures
 - Substance Designers offers a lot of flexibility in creating textures: Sit provides a procedural, non-destructive & parametric workflow that lets you generate infinite, fully customisable materials rather than relying on fixed texture library files.
 - Materials are built with mathematical nodes (shapes, noises, and blending modes) rather than static pixels. You can scale a texture from low resolution to 4K or 8K on the fly without loss of quality
 - Texture libraries often result in games or scenes sharing the exact same scanned assets. Designer lets you build unique, stylized, or hyper-specific material looks tailored strictly to your project's art style.
