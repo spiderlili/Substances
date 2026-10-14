@@ -1,4 +1,8 @@
-Substance Designers offers a lot of flexibility in creating textures
+- Substance Designers offers a lot of flexibility in creating textures: Sit provides a procedural, non-destructive & parametric workflow that lets you generate infinite, fully customisable materials rather than relying on fixed texture library files.
+- Materials are built with mathematical nodes (shapes, noises, and blending modes) rather than static pixels. You can scale a texture from low resolution to 4K or 8K on the fly without loss of quality
+- Texture libraries often result in games or scenes sharing the exact same scanned assets. Designer lets you build unique, stylized, or hyper-specific material looks tailored strictly to your project's art style.
+- Studios use Designer to build custom master material generators that feed consistency across large teams and multiple project assets.
+- Lightweight Assets: Rather than shipping gigabytes of heavy image files (albedo, roughness, normal, displacement maps), you export small procedural instruction files that the engine evaluates and generates in real time.
 
 # [Substance Designer Pipeline](https://www.bilibili.com/video/BV14uYUz7E1K?spm_id_from=333.788.videopod.sections&vd_source=c52aacd3530e7f3dabe93deb78074f99&p=3)
 [cont]
