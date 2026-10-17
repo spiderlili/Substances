@@ -6,7 +6,12 @@
 - Lightweight Assets: Rather than shipping gigabytes of heavy image files (albedo, roughness, normal, displacement maps), you export small procedural instruction files that the engine evaluates and generates in real time.
 
 # [Substance Designer Pipeline](https://www.bilibili.com/video/BV14uYUz7E1K?spm_id_from=333.788.videopod.sections&vd_source=c52aacd3530e7f3dabe93deb78074f99&p=3)
-[cont]
+Substance Designer is more about setting a proper graph which enables you to later tweak the values & get whatever you want. Pay attention to 3 things:
+1. shape: start simple, look for a base, break your shapes. don't overthink it. it's important to break your shapes to add depth unless you're working on sci-fi / very symmetrical type of shapes.
+2. value: contrast is key to focus eye on important things (unless working on certain textures that require a more blended look), keep variety by playing with random values & negative space. remember [0-1] for game engine integration
+3. details: add personality, consider secondary elements like sparks
+
+When using Substance Designer for VFX Texture creation: 80% of the time you'll work with blurs, warps, samplers & simple shapes
 
 # [Types of textures in VFX](https://www.bilibili.com/video/BV14uYUz7E1K?spm_id_from=333.788.videopod.sections&vd_source=c52aacd3530e7f3dabe93deb78074f99&p=2)
 different textures are used based on the style of the game. most common types:
@@ -39,6 +44,10 @@ different textures are used based on the style of the game. most common types:
 - voronoi (usually 3D voronoi): best for fracture shapes / gunshots that destroy the wall, made in Houdini / Blender / Unreal
 
 <img width="1293" height="801" alt="Screenshot" src="https://github.com/user-attachments/assets/1a98c8d5-f72e-4c53-a662-84df54454fbf" />
+
+## [Linear gradients](https://www.bilibili.com/video/BV14uYUz7E1K?spm_id_from=333.788.videopod.sections&vd_source=c52aacd3530e7f3dabe93deb78074f99&p=5)
+
+## [Radial gradients](https://www.bilibili.com/video/BV14uYUz7E1K?spm_id_from=333.788.videopod.sections&vd_source=c52aacd3530e7f3dabe93deb78074f99&p=6)
 
 # Lense flares
 
